@@ -23,6 +23,8 @@ d. enable scriptnya `/etc/init.d/bot enable`
 
 e. buat symlinknya `ls -lh /etc/rc.d | grep bot`
 
+f. jalankan `python /opt/push.py 0 0` i.e
+
 ## Note
 
 Tested on OpenWrt AA, with python installed
